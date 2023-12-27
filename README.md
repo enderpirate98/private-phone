@@ -38,8 +38,10 @@ Browser: Vivaldi, Firefox, Duckduckgo or Brave all avalible from Aurora
 
 Email Client: FairEmail or Prontonmail(Paid but still good) both on Aurora
 
-YouTube Client: [Grayjay](https://grayjay.app) or [Newpipe](https://newpipe.net)
+YouTube Client: [Grayjay](https://grayjay.app) or Newpipe avalible on F-droid
 
 Office Suite: OnlyOffice avalible on Aurora
+
+Maps: Organic maps or OsmAnd both avalible on F-droid
 
 More to come
