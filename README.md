@@ -36,12 +36,14 @@ App Stores: Aurora Store which is a privacy respecting frontend for Google Play,
 
 Browser: Vivaldi, Firefox, Duckduckgo or Brave all avalible from Aurora
 
-Email Client: FairEmail or Prontonmail(Paid but still good) both on Aurora
+Email Client: K-9 Mail or Prontonmail(Paid but still good) both on Aurora
 
 YouTube Client: [Grayjay](https://grayjay.app) or Newpipe avalible on F-droid
 
 Office Suite: OnlyOffice avalible on Aurora
 
-Maps: Organic maps or OsmAnd both avalible on F-droid
+Maps: Organic maps on F-droid or Magic Earth on Aurora
 
-More to come
+If certain apps require Google Play Services or Google Services Framework there is a FOSS app that will try to replace these so that some apps still work but without the spyware, [microG](https://microg.org/download.html) will hopefully do that well enough
+
+If I don't update this guide again for awhile and it feels like there is missing stuff please follow [This Tutorial](https://www.youtube.com/watch?v=RQUEgwgV99I) by HowToMen for a more complete overview on improving your privacy and security in this digital world
