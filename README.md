@@ -34,15 +34,31 @@ First we need a Central App store that gives us easy Access to install the apps 
 
 App Stores: Aurora Store which is a privacy respecting frontend for Google Play, F-droid which is an app store that gives you access to FOSS apps made by the community for the community
 
-Browser: Vivaldi, Firefox, Duckduckgo or Brave all avalible from Aurora
+Browser: Vivaldi, Firefox, Duckduckgo or Brave all available from Aurora
 
-Email Client: K-9 Mail or Prontonmail(Paid but still good) both on Aurora
+Email Client: K-9 Mail on F-droid or Prontonmail(Paid but still good) on Aurora
 
-YouTube Client: [Grayjay](https://grayjay.app) or Newpipe avalible on F-droid
+YouTube Client: [Grayjay](https://grayjay.app) or Newpipe available on F-droid
 
 Office Suite: OnlyOffice avalible on Aurora
 
 Maps: Organic maps on F-droid or Magic Earth on Aurora
+
+Calling and texting: Signal Private Messager on Aurora or Simple Dialer&Simple SMS Messager both on F-droid
+
+Note Taking: Standard Notes or Simple Notes Pro both on F-droid
+
+Calculator: [Calculator](https://f-droid.org/en/packages/com.xlythe.calculator.material/) on F-droid
+
+Password Manager: Bitwarden on Aurora
+
+Contact Manager: Contact Diary or Simple Contacts Pro both on F-droid
+
+Calendar: Etar or Simple Calendar Pro both on F-droid
+
+Camera: Open Camera or Simple Camera both on F-droid
+
+Gallery: Fossify Gallery on F-droid or [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/releases)
 
 If certain apps require Google Play Services or Google Services Framework there is a FOSS app that will try to replace these so that some apps still work but without the spyware, [microG](https://microg.org/download.html) will hopefully do that well enough (Disclaimer: Certain features of it may not work unless you are using a custom rom so be warned)
 
