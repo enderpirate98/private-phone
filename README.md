@@ -60,6 +60,14 @@ Camera: Open Camera or Simple Camera both on F-droid
 
 Gallery: Fossify Gallery on F-droid or [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/releases)
 
+Keyboard: AnySoftKeyboard on F-droid
+
+System Launcher: Nova Launcher on Aurora or Lawnchair Launcher on F-droid
+
+Weather: Your Local Weather on F-droid
+
+More to come
+
 If certain apps require Google Play Services or Google Services Framework there is a FOSS app that will try to replace these so that some apps still work but without the spyware, [microG](https://microg.org/download.html) will hopefully do that well enough (Disclaimer: Certain features of it may not work unless you are using a custom rom so be warned)
 
 If I don't update this guide again for awhile and it feels like there is missing stuff please follow [This Tutorial](https://www.youtube.com/watch?v=RQUEgwgV99I) by HowToMen for a more complete overview on improving your privacy and security in this digital world
