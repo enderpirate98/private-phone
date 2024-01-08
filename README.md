@@ -66,8 +66,12 @@ System Launcher: Nova Launcher on Aurora or Lawnchair Launcher on F-droid
 
 Weather: Your Local Weather on F-droid
 
-More to come
+Media Player: Vlc on F-droid
+
+Music/Audio Player: Music or Metro both on F-droid
+
+Podcast: Antenna Pod on F-droid
 
 If certain apps require Google Play Services or Google Services Framework there is a FOSS app that will try to replace these so that some apps still work but without the spyware, [microG](https://microg.org/download.html) will hopefully do that well enough (Disclaimer: Certain features of it may not work unless you are using a custom rom so be warned)
 
-If I don't update this guide again for awhile and it feels like there is missing stuff please follow [This Tutorial](https://www.youtube.com/watch?v=RQUEgwgV99I) by HowToMen for a more complete overview on improving your privacy and security in this digital world
+If I missed anything important or want additional stuff here please let me know through an issue. I hope this guide contributes positively to the community that cares about Privacy and security on their Android devices and have a great day! :)
