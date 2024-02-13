@@ -38,7 +38,7 @@ Browser: Vivaldi, Firefox, Duckduckgo or Brave all available from Aurora
 
 Email Client: K-9 Mail on F-droid or Prontonmail(Paid but still good) on Aurora
 
-YouTube Client: [Grayjay](https://grayjay.app) or Newpipe available on F-droid
+YouTube Client: [Grayjay](https://grayjay.app) or Newpipe on F-droid
 
 Office Suite: OnlyOffice avalible on Aurora
 
@@ -46,9 +46,13 @@ Maps: Organic maps on F-droid or Magic Earth on Aurora
 
 Calling and texting: Signal Private Messager on Aurora or Fossify Phone&Fossify SMS both on F-droid
 
-Note Taking: Standard Notes or Simple Notes Pro both on F-droid
+Note Taking: Standard Notes or Joplin both on F-droid
 
-Calculator: [Calculator](https://f-droid.org/en/packages/com.xlythe.calculator.material/) on F-droid
+Calculator: [CalcYou](https://github.com/you-apps/CalcYou/releases)
+
+Clock: Clock You on F-droid
+
+Voice Recorder: Record You on F-droid
 
 Password Manager: Bitwarden on Aurora
 
