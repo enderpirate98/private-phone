@@ -44,7 +44,7 @@ Office Suite: OnlyOffice avalible on Aurora
 
 Maps: Organic maps on F-droid or Magic Earth on Aurora
 
-Calling and texting: Signal Private Messager on Aurora or Simple Dialer&Simple SMS Messager both on F-droid
+Calling and texting: Signal Private Messager on Aurora or Fossify Phone&Fossify SMS both on F-droid
 
 Note Taking: Standard Notes or Simple Notes Pro both on F-droid
 
@@ -52,17 +52,19 @@ Calculator: [Calculator](https://f-droid.org/en/packages/com.xlythe.calculator.m
 
 Password Manager: Bitwarden on Aurora
 
-Contact Manager: Contact Diary or Simple Contacts Pro both on F-droid
+Contact Manager: Contact Diary or Fossify Contacts both on F-droid
 
-Calendar: Etar or Simple Calendar Pro both on F-droid
+Calendar: Etar or Fossify Calender both on F-droid
 
 Camera: Open Camera or Simple Camera both on F-droid
 
-Gallery: Fossify Gallery on F-droid or [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/releases)
+Gallery: Fossify Gallery on F-droid or [Gallery](https://f-droid.org/en/packages/com.dot.gallery/)
 
-Keyboard: AnySoftKeyboard on F-droid
+File Manager: Fossify File Manager on F-droid
 
-System Launcher: Nova Launcher on Aurora or Lawnchair Launcher on F-droid
+Keyboard: AnySoftKeyboard on F-droid or [Simple Keyboard](https://f-droid.org/packages/rkr.simplekeyboard.inputmethod/)
+
+System Launcher: Nova Launcher on Aurora or [Lawnchair Launcher](https://lawnchair.app)
 
 Weather: Your Local Weather on F-droid
 
